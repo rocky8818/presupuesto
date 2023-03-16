@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/presupuesto/static/css/main.c2cab247.css",
+    "main.js": "/presupuesto/static/js/main.5671844c.js",
+    "index.html": "/presupuesto/index.html",
+    "main.c2cab247.css.map": "/presupuesto/static/css/main.c2cab247.css.map",
+    "main.5671844c.js.map": "/presupuesto/static/js/main.5671844c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.5671844c.js"
+  ]
+}
